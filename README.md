@@ -3,7 +3,7 @@
 ###### This my first hands-on experience with machine learning, I have done my Capstone Project on Wine Quality Prediction and another assignment on Placement Prediction.
 
 ### Wine Quality Prediction
-I have imported the dataset of a red wine which contains information on:
+####### I have imported the dataset of a red wine which contains information on:
 1.fixed acidity
 2.volatile acidity
 3.citric acid
